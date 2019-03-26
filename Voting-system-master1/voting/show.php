@@ -26,7 +26,7 @@
      </ul>
 </nav>
 <img src="zz.jpg" width="100%">
-<section style="background-image: url('xx.jpg');"><br><br>
+<section style="background-image: url('mm.jpg'); background-size: cover;"><br><br>
 	<h1 style="text-align: center;">PROJECTS TO VOTE</h1>
 <br>
 
